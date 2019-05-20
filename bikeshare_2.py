@@ -199,6 +199,7 @@ def main():
             print ('Thank you for your interest.')
 
         print('Project started on the 15th of February' )
+        print ('Project finish on the 21st of May')
 
 if __name__ == "__main__":
 	main()
