@@ -198,5 +198,7 @@ def main():
         else:
             print ('Thank you for your interest.')
 
+        print('Project started on the 15th of February' )
+
 if __name__ == "__main__":
 	main()
