@@ -192,6 +192,11 @@ def main():
         if restart.lower() != 'yes':
             break
 
+        otherdata = input('Would you like to see other cities?')
+        if otherdata.lower() != 'yes':
+            print ('Other city options are coming soon.')
+        else:
+            print ('Thank you for your interest.')
 
 if __name__ == "__main__":
 	main()
